@@ -1,0 +1,9 @@
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\bin\Debug\View.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\bin\Debug\View.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\bin\Debug\Common.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\bin\Debug\Model.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\bin\Debug\Common.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\bin\Debug\Model.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\obj\Debug\View.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\View\obj\Debug\View.pdb

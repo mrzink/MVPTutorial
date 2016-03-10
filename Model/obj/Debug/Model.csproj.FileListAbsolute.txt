@@ -1,0 +1,4 @@
+D:\PDQ\MVP-Tutorial\MVPTutorial\Model\bin\Debug\Model.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Model\bin\Debug\Model.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\Model\obj\Debug\Model.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Model\obj\Debug\Model.pdb

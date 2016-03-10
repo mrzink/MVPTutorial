@@ -1,0 +1,15 @@
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\Presenter.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\Presenter.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\EntityLib.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\Model.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\View.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\EntityFramework.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\Common.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\EntityLib.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\Model.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\View.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\EntityFramework.xml
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\bin\Debug\Common.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\obj\Debug\Presenter.csprojResolveAssemblyReference.cache
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\obj\Debug\Presenter.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Presenter\obj\Debug\Presenter.pdb

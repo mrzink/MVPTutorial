@@ -1,0 +1,12 @@
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\EntityLib.dll.config
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\EntityLib.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\EntityLib.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\EntityFramework.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\Model.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\Model.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\EntityFramework.xml
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\obj\Debug\EntityLib.csprojResolveAssemblyReference.cache
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\obj\Debug\EntityLib.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\EntityLib\obj\Debug\EntityLib.pdb

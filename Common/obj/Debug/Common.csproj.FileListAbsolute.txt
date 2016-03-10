@@ -1,0 +1,4 @@
+D:\PDQ\MVP-Tutorial\MVPTutorial\Common\bin\Debug\Common.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Common\bin\Debug\Common.pdb
+D:\PDQ\MVP-Tutorial\MVPTutorial\Common\obj\Debug\Common.dll
+D:\PDQ\MVP-Tutorial\MVPTutorial\Common\obj\Debug\Common.pdb
